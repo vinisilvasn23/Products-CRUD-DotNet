@@ -71,7 +71,7 @@ git clone https://github.com/seu-usuario/Products-CRUD-DotNet.git
 - Navegue até o diretório do projeto:
 
 ```
-cd sua-api
+cd Products-CRUD-DotNet
 ```
 
 - Execute as migrações do banco de dados para criar o esquema do banco de dados:
